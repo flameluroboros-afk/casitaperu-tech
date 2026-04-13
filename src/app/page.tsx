@@ -7,7 +7,7 @@ import TechProductCard from "@/components/TechProductCard";
 import TechFooter from "@/components/TechFooter";
 import { motion } from "framer-motion";
 import { ArrowRight, Zap, Target, ShieldCheck , Truck} from "lucide-react";
-
+import Link from "next/link";
 const sampleProducts = [
   {
     id: "1",
