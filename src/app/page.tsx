@@ -6,7 +6,7 @@ import GadgetHero from "@/components/GadgetHero";
 import TechProductCard from "@/components/TechProductCard";
 import TechFooter from "@/components/TechFooter";
 import { motion } from "framer-motion";
-import { ArrowRight, Zap, Target, ShieldCheck } from "lucide-react";
+import { ArrowRight, Zap, Target, ShieldCheck , Truck} from "lucide-react";
 
 const sampleProducts = [
   {
